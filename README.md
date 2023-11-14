@@ -1,16 +1,20 @@
-# componentizacao
+Componentização no Desenvolvimento Flutter
 
-A new Flutter project.
+Olá pessoal! 👋
 
-## Getting Started
+Sejam bem-vindos ao meu canal! No primeiro vídeo, abordamos um tema crucial para iniciantes no Flutter: a componentização no desenvolvimento.
 
-This project is a starting point for a Flutter application.
+Muitos de nós enfrentamos o desafio da organização do código, especialmente quando as páginas ficam grandes e difíceis de manter. Eu já passei por isso, e neste vídeo, compartilho minha experiência e apresento uma solução: a componentização de widgets.
 
-A few resources to get you started if this is your first Flutter project:
+Espero que esse conteúdo ajude você a organizar melhor seus projetos Flutter. Confira o vídeo completo aqui.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Conecte-se comigo:
+
+    LinkedIn: https://www.linkedin.com/in/walysson-cruz-a273a7189/
+    Portfólio: Bit.ly/3tQeTN5
+    Vídeo completo nesse link: https://youtu.be/_MtSDcRiE1A?si=cGnBmdaOTtjVEY1Q
+
+Fique à vontade para explorar o código-fonte e compartilhar suas sugestões!
+
+#flutter #desenvolvimento #componentização #organizaçãodecódigo
